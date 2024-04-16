@@ -44,3 +44,5 @@ mpirun -np 8 python runScript_AeroStruct.py 2>&1 | tee logOpt.txt
 
 
 {% include links.html %}
+
+![ezgif com-animated-gif-maker](https://github.com/DAFoam/DAFoam.github.io/assets/140402482/afb8ecfd-d413-40d7-8216-f22b64a56110)
